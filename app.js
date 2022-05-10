@@ -1,5 +1,7 @@
-function plus(a, b) {
-  console.log(a + b);
-}
+const toBuy = ["postato", "tomato", "pizza"];
 
-plus(5, 5);
+console.log(toBuy[2]);
+toBuy[2] = "water";
+console.log(toBuy);
+toBuy.push("one");
+console.log(toBuy);
