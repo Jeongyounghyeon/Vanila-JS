@@ -1,7 +1,5 @@
-function sayHello() {
-  console.log("Hello my name is ");
+function plus(a, b) {
+  console.log(a + b);
 }
 
-sayHello("nico");
-sayHello("dal");
-sayHello("lynn");
+plus(5, 5);
