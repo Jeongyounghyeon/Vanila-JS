@@ -1,0 +1,18 @@
+#weather {
+  text-align: center;
+}
+
+#weather span {
+  display: block;
+  font-weight: bold;
+}
+
+#weather span:first-child,
+#weather span:nth-child(2) {
+  font-size: 90px;
+}
+
+#weather span:last-child {
+  margin-top: 60px;
+  font-size: 50px;
+}

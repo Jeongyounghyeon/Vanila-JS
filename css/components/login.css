@@ -1,0 +1,23 @@
+#login-form {
+  display: flex;
+  text-align: center;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+#login-form input:first-child {
+  margin: 50 0px;
+  width: 45%;
+  height: 40%;
+  font-size: 50px;
+  border-radius: 3rem;
+}
+
+#login-form input:last-child {
+  margin: 50 0px;
+  height: 40%;
+  width: 45%;
+  border-radius: 3rem;
+}

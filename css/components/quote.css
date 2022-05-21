@@ -1,0 +1,15 @@
+#quote span:first-child {
+  font-size: 15px;
+}
+
+#quote span {
+  display: block;
+  width: 100%;
+  font-style: italic;
+}
+
+#quote span:last-child {
+  font-size: 13px;
+  margin-top: 10px;
+  font-weight: 200;
+}

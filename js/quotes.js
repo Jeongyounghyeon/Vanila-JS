@@ -1,43 +1,47 @@
 const quotes = [
   {
-    quote: "quote1",
-    author: "autor1",
+    quote: "To marry is to halve your rights and double your duties.",
+    author: "Arthur Schopenhaur",
   },
   {
-    quote: "quote2",
-    author: "autor2",
+    quote: "He makes no friend who never made a foe.",
+    author: "Alfred, Lord Tennyson",
   },
   {
-    quote: "quote3",
-    author: "autor3",
+    quote: "Common sense is the collection of prejudices acquired by age 18.",
+    author: "Albert Einstein",
   },
   {
-    quote: "quote4",
-    author: "autor4",
+    quote:
+      "The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.",
+    author: "Albert Einstein",
   },
   {
-    quote: "quote5",
-    author: "autor5",
+    quote: "Nothing is more despicable than respect based on fear.",
+    author: "Albert Camus",
   },
   {
-    quote: "quote6",
-    author: "autor6",
+    quote:
+      "Television has proved that people will look at anything rather than each other.",
+    author: "Ann Landers",
   },
   {
-    quote: "quote7",
-    author: "autor7",
+    quote:
+      "It is only with the heart that one can see rightly, what is essential is invisible to the eye.",
+    author: "Antoine de Saint-Exupery",
   },
   {
-    quote: "quote8",
-    author: "autor8",
+    quote:
+      "Love does not consist in gazing at each other, but in looking together in the same direction.",
+    author: "Antoine de Saint-Exupery",
   },
   {
-    quote: "quote9",
-    author: "autor9",
+    quote: "Business? It's quite simple. It's other people's money.",
+    author: "Alexandre Dumas",
   },
   {
-    quote: "quote10",
-    author: "autor10",
+    quote: "I would as soon leave my son a curse as the almighty dollar.",
+    author: "Andrew Carnegie",
   },
 ];
 
